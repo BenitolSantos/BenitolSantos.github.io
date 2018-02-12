@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Is taking notes really important when programming?"
-date:       2018-02-12 18:47:17 +0000
+date:       2018-02-12 13:47:18 -0500
 permalink:  is_taking_notes_really_important_when_programming
 ---
 
@@ -13,14 +13,16 @@ permalink:  is_taking_notes_really_important_when_programming
 	
 	Look at this.
 	
-	![](http://https://introcs.cs.princeton.edu/21function)
+def greeting # Method Signature
+  puts "Hello World" # Method Body
+end # Method Closing
+
+
+	When you look at it, What does it mean? What does it do?
 	
+	Sure, you could always write down the output. Take notes and try to memorize how it works. But the real way to develop your skills is practice. The only way to know is to let it do its thing. It has an easier flow when you put it in and let it comeout. 
 
-When you look at it, What does it mean? What does it do?
-
-The only way to know is to let it do its thing. It has an easier flow when you put it in and let it comeout. 
-
-In short notes < experience.
+In short notes < experience. Practical is always better.
 	
 
 
