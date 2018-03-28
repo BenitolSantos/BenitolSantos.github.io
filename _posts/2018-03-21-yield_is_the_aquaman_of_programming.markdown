@@ -1,9 +1,12 @@
 ---
 layout: post
-title:      "Yield is the Aquaman of Programming"
-date:       2018-03-21 22:53:56 +0000
+title:      "A perspective on yield"
+date:       2018-03-21 18:53:56 -0400
 permalink:  yield_is_the_aquaman_of_programming
 ---
+
+(From the point of view of someone who had a poor teacher. Let this be a lesson to you all)
+(I later discovered I was wrong about these.)
 
 
 ![](https://1.bp.blogspot.com/-Q_RkNdVzFZc/WPzHoIzLeZI/AAAAAAAAELc/71VQQMth7gssdWx2lQ-ZTTBWtVEdnjAeACLcB/s400/Super_Antics_12.jpg)
