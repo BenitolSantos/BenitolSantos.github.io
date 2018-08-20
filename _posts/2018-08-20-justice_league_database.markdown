@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JUSTICE LEAGUE DATABASE"
-date:       2018-08-20 19:58:14 +0000
+date:       2018-08-20 15:58:15 -0400
 permalink:  justice_league_database
 ---
 
@@ -34,7 +34,10 @@ After all that was said and done, I had to re-go over nokogiri concepts, look ov
 
 The cli constantly broke down (ERRORS ARE THE WORST). Ide constantly broke down. Github deleted my repository (NEVER USE GIT PUSH -F) I couldn't use ask a question, and people Slack couldn't help me much to differing schedules and the fact they had their own problems. Plus have you tried explaining parts of long code error over text? It's sort of impossible. I had events that popped up out of nowhere, hindering my time working on it. I had problems with my wifi.
 
-After all that. I finally finished it. With one help session left. 3/4.
+Now I can safely say that my CLI scrapes the current members of Justice League Earth prime in the new 52. It scrapes both the Justice League's page and the indivivual members page in order to create a list based on their attributes under the status section of each members page. The justice league currently has nine, active, non reserve members. For some reason aquaman is the only one with a listed education, and only those who are nonhuman have their race listed under status. 
+
+
+2 weeks. After all that. I finally finished it. With one help session left. 3/4.
 
 Never give up. I got through it. Thank God. 
 
