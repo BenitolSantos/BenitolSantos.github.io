@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The-Basic-Bank"
-date:       2019-05-02 19:00:01 +0000
+date:       2019-05-02 15:00:03 -0400
 permalink:  the-basic-bank
 ---
 
@@ -87,6 +87,6 @@ Validate user input so bad data cannot be persisted to the database.**
 *Daunting. But I did it. An it only took me a year.*
 -TheCodingSuperhero
 
-![](https://media1.giphy.com/media/8vQXZ7P6D9QCOmHDD0/giphy.gifhttp://)
+![](https://media1.giphy.com/media/8vQXZ7P6D9QCOmHDD0/giphy.gif)
 
 
