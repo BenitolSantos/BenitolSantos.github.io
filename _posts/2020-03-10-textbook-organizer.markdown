@@ -7,7 +7,7 @@ permalink:  textbook-organizer
 
 
 Woo this took **WAY TOO LONG.**
-### I can understand why people many tech coaches I partnered with ***hate*** rails.
+I can understand why many tech coaches I partnered with ***hate*** rails.
 
 Originally someone put the idea in my head that I should put a progress tracker, which wasn't even needed. That set me back about a month.
 
