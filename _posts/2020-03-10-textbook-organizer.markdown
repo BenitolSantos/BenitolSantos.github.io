@@ -1,12 +1,13 @@
 ---
 layout: post
 title:      "Textbook-Organizer"
-date:       2020-03-11 01:30:53 +0000
+date:       2020-03-10 21:30:54 -0400
 permalink:  textbook-organizer
 ---
 
 
-Woo this took WAY TOO LONG.
+Woo this took **WAY TOO LONG. **
+### I can understand why people many tech coaches I partnered with ***hate*** rails.
 
 Originally someone put the idea in my head that I should put a progress tracker, which wasn't even needed. That set me back about a month.
 
